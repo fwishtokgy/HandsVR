@@ -1,2 +1,2 @@
 # HandsVR
- Simple Slap game
+A failed prototype of a slapping VR game in UE4
